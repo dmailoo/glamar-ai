@@ -1,0 +1,7 @@
+node_modules
+dist
+.vercel
+.gemini
+.env
+.env.local
+*.log
